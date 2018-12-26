@@ -11,15 +11,15 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : mmistakes/minimal-mistakes
+minimal_mistakes_skin  : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
-locale                   : "en-UR"
-title                    : "SSAF Benefit 2018"
+locale                   : "en-US"
+title                    : "Team SSAF Benefit"
 title_separator          : "-"
-name                     : "gwontaeyong"
-description              : "SSAFY"
+name                     : "SSAF Benefit"
+description              : "An amazing website."
 url                      : "https://gwontaeyong.github.io"
 baseurl                  : "/SSAF_Benefit"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "The Last Supper"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Even better than your though"
+  location         : "Gwangju Ssafy class"
   email            :
   links:
     - label: "Email"
@@ -287,6 +287,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
+
+theme: jekyll-theme-cayman
