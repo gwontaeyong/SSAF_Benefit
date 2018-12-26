@@ -1,8 +1,10 @@
----
-# 슬라이드 1
-안녕하세요,
+<div class="left">
 
----
-# 슬라이드 2
-testsetset
-그럼이만 ---
+![code scene](assets/images/teams-parallel-development.png)
+[codescene.io](https://codescene.io)
+</div>
+<div class="right">
+![sonarqube](assets/images/sonarcube-configuration.png)
+[sonarqube.org](https://www.sonarqube.org)
+
+</div>
