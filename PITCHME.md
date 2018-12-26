@@ -6,7 +6,7 @@
 
 ---
 # 나를 가장 잘 나타낼 수 있는 사진
-![Alt text](\Users\student\Desktop\IMG_7518.jpg)
+![Alt text](C:\Users\student\Desktop\IMG_7518.jpg)
 
 
 ---
