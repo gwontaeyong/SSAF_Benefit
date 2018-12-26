@@ -5,7 +5,7 @@
 ---
 # 사진
 <div class="left">
-<img src="https://github.com/gwontaeyong/SSAF_Benefit/blob/jinsoo/Image-1.jpg" width="500" height="300">
+<img src="jinsoo/esset/eunjin.jpg" width="500" height="300">
 </div>
 ---
 # 연말계획
