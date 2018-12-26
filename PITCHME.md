@@ -4,7 +4,7 @@
 
 ---
 # 사진
-![Github](./https://github.com/gwontaeyong/SSAF_Benefit/blob/master/eunjin.jpg)
+![Github](https://github.com/gwontaeyong/SSAF_Benefit/blob/master/eunjin.jpg)
 
 ---
 # 연말계획
