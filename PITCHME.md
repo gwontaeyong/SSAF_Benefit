@@ -4,7 +4,7 @@
 
 ---
 # 사진
-<img src="https://github.com/gwontaeyong/SSAF_Benefit/blob/master/eunjin.jpg" width=300" height="300" />
+<img src="https://github.com/gwontaeyong/SSAF_Benefit/blob/master/eunjin.jpg" width="300" height="300" />
 
 ---
 # 연말계획
