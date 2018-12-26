@@ -4,7 +4,7 @@
 
 ---
 # 사진
-
+/C:\Users\student\Downloads/to/jinsoo.jpg
 
 ---
 # 연말계획
