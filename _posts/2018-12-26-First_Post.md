@@ -1,7 +1,15 @@
 ---
-# Design Thinking 방법론
-###### 예제) 야가자 - AR 을 이용한 길찾기 앱
+title: "Edge Case: Nested and Mixed Lists"
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
 ---
+
 ## 1. 공감
 * 고객이 진심으로 원하는 것이 무엇인지 파악하고 문제점을 발견하는 시작점
 * 공감의 3가지 방법
