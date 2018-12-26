@@ -1,5 +1,5 @@
 <div class="left">
-![](assets/images/sample.jpg)
+<img src="assets/images/sample.jpg" width="500" height="300">
 [codescene.io](https://codescene.io)
 </div>
 <div class="right">
